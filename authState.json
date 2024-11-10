@@ -1,0 +1,579 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANOXeZxKccguCrOsnexDwJQqkQJk8e6JLO2u5tED7pOtnTCxsVp8et-dfKTBbwKLY2RmHJC52n-u_EJIQE8b8A0",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1746750512.108091,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "logged_out_uuid",
+      "value": "f952ffc562706bb26b7a0a08725b67ae",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1738974539.094417,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "xsrf_token",
+      "value": "c1268b17177a08c176b6cb38087384ed%3A1731198508634",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1732408108.582868,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "onetrust_banner_consent_required",
+      "value": "false",
+      "domain": "app.asana.com",
+      "path": "/",
+      "expires": 1734222509.32284,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "onetrust_banner_previously_shown",
+      "value": "false",
+      "domain": "app.asana.com",
+      "path": "/",
+      "expires": 1734222509.323278,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.668072857.1731198510",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1738974509,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.2108492043.1731198510",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1731284910,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2034070649.1731198510",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1765758510.202544,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tuuid",
+      "value": "07289af0-a526-49d2-8392-2437df081e36",
+      "domain": ".company-target.com",
+      "path": "/",
+      "expires": 1765758510.225357,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1731198510|ix:0|mctv:0|rp:0",
+      "domain": ".company-target.com",
+      "path": "/",
+      "expires": 1765758510.225381,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rlas3",
+      "value": "mHhzUznkNDBHql5lsBAhopg2XIElVqacRpKQKHO0xic=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1762734510.30297,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CK78v7kGEgUI6AcQABIGCMrdKhAA",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1736382510.30303,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.4x2v05lFtQX34AB9DJmMiDy7nuj2wMwrF0cItF8bS%2FU%3D.1731198510",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1765758511.554949,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "eFGqeDew5%2FIZgngH522cy7Ts9mB8qrHsFPMzmO%2FE8VI5ABc9xqfREGn9ecY%2FFkjCrfkoePGwSUKTK5tzb2YeOEDBiVXUa3Gov82KSPIFY36HpPXR39w8KaM0afxbZw%3D%3D",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1731270510.313261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1731198510.1731198510.G-J1KDXMCQTH.6CEXjkgP7uRccPa5EYZfzA",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1731200310.313277,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "CMID",
+      "value": "Zy-.LsAoJYoAAALXAb8ncgAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1762734510.508216,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "2877",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1738974510.425418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "2877",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1738974510.508415,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tvid",
+      "value": "3b7e184fe8f94eb28fffc94100c9be93",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1762755410.426008,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tv_UIDM",
+      "value": "07289af0-a526-49d2-8392-2437df081e36",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1765758510.426079,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_11757081_1",
+      "value": "1",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1731198571,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|X17KoujuJ42D7JfHH/uyl6c7HCQmovB6IaTqT624YmQn6mHGtgsOdCY/AL0eKBIKD/KGj8Kx8GMwHTRO1/p4iJLoYn4tEwhGaagp8T6bTiJXnkaqRXVTgAdoJI/tShAHvrzn8tQLPBR879e/fX5BEsL9iUUzpz01VFGxpdJGiDeWvEnWSmTsitzpQ7vzkXQ/",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1762734511.40679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "value": "M3AUW8LN-13-KG4T",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1762734511.406907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "M3AUW8LN-13-KG4T",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1762734511.406941,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "value": "1|X17KoujuJ42D7JfHH/uyl6c7HCQmovB6IaTqT624YmQn6mHGtgsOdCY/AL0eKBIKD/KGj8Kx8GMwHTRO1/p4iJLoYn4tEwhGaagp8T6bTiJXnkaqRXVTgAdoJI/tShAHvrzn8tQLPBR879e/fX5BEsL9iUUzpz01VFGxpdJGiDeWvEnWSmTsitzpQ7vzkXQ/",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1762734511.406969,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1738974511.406995,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_J1KDXMCQTH",
+      "value": "GS1.1.1731198510.1.0.1731198511.0.0.1456016726",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1765758511.427688,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gtmeec",
+      "value": "e30%3D",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1738974511.555007,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1731198511599.1352329038",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1738974511,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".www.google-analytics.com",
+      "path": "/",
+      "expires": 1738974511.647647,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "saml_redirect_url",
+      "value": "https%3A%2F%2Fapp.asana.com%2F%3Frr%3D52462",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1731198811.670254,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "user",
+      "value": "1205367004044110",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.897754,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth_token",
+      "value": "11433c70767ecd2c6cd4a10084662ebff3dafdd7b8e59191d7ad8bfa5b31c070",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.897857,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ticket",
+      "value": "79ef1f9d093ed4d3fdc87d8b72b88891c3742783e38415c44ea8592c4ba0771e",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.898056,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_asana_dot_com",
+      "value": "1205367004044110",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1765758512.898157,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is_logged_in",
+      "value": "true",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1765758512.898221,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "last_login_time",
+      "value": "1731198512747",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.898406,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_cross_site",
+      "value": "1205367004044110",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.898536,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "auth_token_cross_site",
+      "value": "11433c70767ecd2c6cd4a10084662ebff3dafdd7b8e59191d7ad8bfa5b31c070",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.8986,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ticket_cross_site",
+      "value": "79ef1f9d093ed4d3fdc87d8b72b88891c3742783e38415c44ea8592c4ba0771e",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.898676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "user_session_MTIwNTM2NzAwNDA0NDExMA",
+      "value": "eyJwcmUiOiJiZW4rcG9zZUB3b3Jrd2l0aGxvb3AuY29tIiwiYXV0IjoiMTE0MzNjNzA3NjdlY2QyYzZjZDRhMTAwODQ2NjJlYmZmM2RhZmRkN2I4ZTU5MTkxZDdhZDhiZmE1YjMxYzA3MCIsInRpYyI6Ijc5ZWYxZjlkMDkzZWQ0ZDNmZGM4N2Q4YjcyYjg4ODkxYzM3NDI3ODNlMzg0MTVjNDRlYTg1OTJjNGJhMDc3MWUifQ%3D%3D",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.898758,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang_pref",
+      "value": "en",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1762734512.898841,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "trusted_device_04a03e1ca81c107a4578fff6d5a9519c5d0696af8b6c31e2e8e31e16bd6a9e69",
+      "value": "8e2d8b7bde7771325cf915027cd4c4f6",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758512.898987,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sat+Nov+09+2024+19%3A28%3A32+GMT-0500+(Eastern+Standard+Time)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1aa6f5e5-75df-48f3-b6af-629dc832b630&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1762734512,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "last_domain",
+      "value": "998035457938027",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1765758513.060771,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "p",
+      "value": "0",
+      "domain": ".app.asana.com",
+      "path": "/",
+      "expires": 1765758538.443055,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is_free_or_trialing",
+      "value": "0",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1765758538.443116,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "can_view_upgrade_flow",
+      "value": "1",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1746750538.443147,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is_org_paying_billing_owner",
+      "value": "0",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1746750538.443177,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "enable_asanadotcom_homepage",
+      "value": "true",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1762734538.443208,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lihp_domain_test_bucket",
+      "value": "enabled",
+      "domain": ".asana.com",
+      "path": "/",
+      "expires": 1762734515.933799,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.asana.com",
+      "localStorage": [
+        {
+          "name": "trigger_engine",
+          "value": "{\"ungated_trials_delayed_offer_second_session_trigger_spec\":{\"currentAction\":2,\"currentState\":{}},\"sample_route_spec\":{\"currentAction\":1,\"currentState\":{}}}"
+        },
+        {
+          "name": "history_1205366998147150",
+          "value": "{\"schemaVersion\":1,\"history\":[{\"state\":{\"appName\":\"Asana\",\"name\":\"PotBoardRoute\",\"domain\":{\"type\":\"Domain\",\"id\":\"998035457938027\"},\"pot\":{\"type\":\"Pot\",\"id\":\"1205367008167110\"},\"potType\":\"Project\",\"gridViewState\":{\"completion\":2,\"recentlyCompletedOffset\":6,\"sortBy\":\"Priority\",\"sorts\":[],\"filters\":[],\"columnBy\":{\"groupType\":\"Section\",\"isAscending\":true,\"shouldHideEmptyGroups\":false},\"sortWithinSectionsUserPreference\":true,\"defaultCollapsedColumnIdsOnListView\":[]},\"shouldIgnoreGridViewState\":true,\"objectView\":{\"type\":\"ObjectAbstractView\",\"id\":\"1205367578167113\"}},\"title\":\"● Work Requests - Asana\"},{\"state\":{\"appName\":\"Asana\",\"name\":\"HomeRoute\",\"domain\":{\"type\":\"Domain\",\"id\":\"998035457938027\"},\"domainUser\":{\"type\":\"DomainUser\",\"id\":\"1205366998147150\"}},\"title\":\"● Home - Asana\"},{\"state\":{\"appName\":\"Asana\",\"name\":\"PotBoardRoute\",\"domain\":{\"type\":\"Domain\",\"id\":\"998035457938027\"},\"pot\":{\"type\":\"Pot\",\"id\":\"1205367008165973\"},\"potType\":\"Project\",\"gridViewState\":{\"completion\":2,\"recentlyCompletedOffset\":6,\"sortBy\":\"Priority\",\"sorts\":[],\"filters\":[],\"columnBy\":{\"groupType\":\"Section\",\"isAscending\":true,\"shouldHideEmptyGroups\":false},\"sortWithinSectionsUserPreference\":true,\"defaultCollapsedColumnIdsOnListView\":[]},\"shouldIgnoreGridViewState\":true,\"objectView\":{\"type\":\"ObjectAbstractView\",\"id\":\"1205366758273574\"}},\"title\":\"● Cross-functional project plan, Project - Asana\"}]}"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09ANOXeZxmMwosRHXZQXCjkg1r0gSY4J6qc6pNwFgOW7tLJ3MWVXltrZS56lKAlqJM8UtrX1viAXmK64AXkraKKJ3r4MZ6T46CPfiESg"
+        },
+        {
+          "name": "shouldShowTrialCalloutCard",
+          "value": "{\"value\":false,\"expiration\":\"2024-11-11T00:28:57.502Z\"}"
+        },
+        {
+          "name": "last_liveness_time_asana",
+          "value": "1731198537944"
+        },
+        {
+          "name": "2022_06_09_recently_viewed_tasks_1205366998147150",
+          "value": "[]"
+        }
+      ]
+    },
+    {
+      "origin": "https://asana.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrer",
+          "value": "other"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1731198511650"
+        },
+        {
+          "name": "gtmBrowserId",
+          "value": "1731198769861"
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "null"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MXlwc2ViODE5N2dhcjk="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aANO5ZVo3g6MxxXPeGDjmy6VTsW5O_AOst1DomJhIAxzXW_FU9Kkugmd0xkRNQ5ymCmifuD8"
+        }
+      ]
+    }
+  ]
+}
