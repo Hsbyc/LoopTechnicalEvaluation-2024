@@ -58,10 +58,8 @@ async function loginOnce(context) {
 
   await loginPage.navigateToLoginPage();
   await loginPage.login();
-
   // Wait for the greeting to show up and verify login
   await welcomePageTests.verifyLogin();
-
   // Save the session state (cookies, localStorage, etc.)
   await context.storageState({ path: path.resolve('authState.json') });
 
